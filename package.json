@@ -6,6 +6,7 @@
     "build": "vite build",
     "serve": "vite preview"
   },
+  "homepage": "https://weeks6.github.io/pt/",
   "dependencies": {
     "vue": "^3.2.16"
   },
